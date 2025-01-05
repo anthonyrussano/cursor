@@ -29,7 +29,7 @@
 
 4. Move the Extracted Folder to a Permanent Location
 
-By default, the folder is named `squashfs-root`. Nename it and place it in `/opt/` (a common location for third-party apps).
+By default, the folder is named `squashfs-root`. Rename it and place it in `/opt/` (a common location for third-party apps).
 
 ```bash
 sudo mv squashfs-root /opt/cursor
